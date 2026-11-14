@@ -1,0 +1,57 @@
+[
+  {
+    "id": "under-african-sun",
+    "reviewer": "Nadine Laman",
+    "role": "Cactus Rain Publishing",
+    "label": "Amazon assessment and recommendations",
+    "quote": "We continue to work with Abduqudus Tella because he delivers exactly what we request and does it expertly.",
+    "rating": 5.0,
+    "source": "Upwork profile",
+    "source_url": "https://www.upwork.com/freelancers/abdulqudust",
+    "book": "Under the African Sun",
+    "author": "Gail Gilbride",
+    "book_url": "https://www.amazon.com/dp/B01MSCNCIO",
+    "image": "under-the-african-sun-324.webp",
+    "width": 324,
+    "height": 500,
+    "home": true
+  },
+  {
+    "id": "guillaume-charvet",
+    "reviewer": "Guillaume Charvet",
+    "role": "Author and founder of WonderLab University",
+    "label": "LinkedIn recommendation",
+    "quote": "An excellent professional who truly respects the essence of the work and brings valuable insights and contributions. Thank you again",
+    "rating": null,
+    "source": "LinkedIn recommendation",
+    "source_url": "https://www.linkedin.com/in/abdulqudustella/details/recommendations/",
+    "reviewer_url": "https://www.linkedin.com/in/guillaume-charvet-607a3647/",
+    "date": "2026-11-07",
+    "home": true,
+    "scope": "Book formatting and cover design for a children’s book",
+    "author_books_url": "https://www.amazon.com/stores/Guillaume-Charvet/author/B0G6YG8QVV"
+  },
+  {
+    "id": "cactus-rain-publishing",
+    "reviewer": "Nadine Laman",
+    "role": "On behalf of Cactus Rain Publishing",
+    "label": "A continuing working relationship",
+    "quote": "Mr. Tella has proven his experience, skill, professionalism through several projects. He is Cactus Rain Publishing's preferred contractor.",
+    "rating": null,
+    "source": "Publisher feedback",
+    "home": true
+  },
+  {
+    "id": "nadine-laman-linkedin",
+    "reviewer": "Nadine Laman",
+    "role": "Publisher, Cactus Rain Publishing",
+    "label": "From assessment to paid work",
+    "quote": "Through a conversation that spanned several days on LinkedIn, AbdulQudus explained his process of helping writers. He starts with a FREE assessment—no strings attached. My expectations were pretty low. However, AbdulQudus sent me a detailed six page assessment of my Amazon listing, which included two pages of recommendations. It was amazingly accurate. Subsequently, I hired him, which cost lots less than a monthly electric bill in Arizona. We worked together and completed the work in a short amount of time. I am completely pleased that I hired AbdulQudus.",
+    "rating": null,
+    "source": "LinkedIn recommendation",
+    "source_url": "https://www.linkedin.com/in/abdulqudustella/details/recommendations/",
+    "reviewer_url": "https://www.linkedin.com/in/nadine-laman-85353a340/",
+    "date": "2026-09-10",
+    "home": false
+  }
+]

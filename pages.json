@@ -1,0 +1,173 @@
+{
+  "home": {
+    "title": "Grant Publishing Co.",
+    "slug": "",
+    "shortcode": "grant_home",
+    "description": "Book design, formatting, publishing and marketing for authors. Prepare ebook and print editions, get Amazon KDP support and promote your book."
+  },
+  "services": {
+    "title": "Book Design, Publishing & Marketing Services",
+    "slug": "services",
+    "shortcode": "grant_services",
+    "description": "Explore book formatting, cover design, Amazon KDP publishing setup, Amazon Ads and practical book marketing services."
+  },
+  "enquiry": {
+    "title": "Free Initial Book Assessment",
+    "slug": "book-marketing-audit",
+    "shortcode": "grant_enquiry_page",
+    "description": "Request a free assessment of your public Amazon book listing, or discuss a design, formatting, publishing or marketing project."
+  },
+  "about": {
+    "title": "About Grant Publishing Co.",
+    "slug": "about",
+    "shortcode": "grant_about",
+    "description": "Meet AbdulQudus Tella, Book Publishing Specialist and Founder of Grant Publishing Co., and discover Grant Publishing Co.’s book design, formatting, publishing and marketing services."
+  },
+  "feedback": {
+    "title": "Client Feedback",
+    "slug": "client-feedback",
+    "shortcode": "grant_feedback",
+    "description": "Read client feedback and case studies on cover redesign, interior formatting and Amazon book listing work for John Capon and Cactus Rain Publishing."
+  },
+  "insights": {
+    "title": "Insights for Authors",
+    "slug": "insights",
+    "shortcode": "grant_insights",
+    "description": "Practical thinking on book discovery, product page presentation and author catalog strategy."
+  },
+  "contact": {
+    "title": "Contact Grant Publishing Co.",
+    "slug": "contact",
+    "shortcode": "grant_contact",
+    "description": "Discuss book design, formatting, publishing or marketing. Inquiries are welcome before publication; an Amazon link is optional."
+  },
+  "amazon-visibility": {
+    "title": "Amazon Book Visibility",
+    "slug": "amazon-visibility",
+    "parent": "services",
+    "shortcode": "grant_amazon_visibility",
+    "description": "Help the right reader recognize where your book belongs. Explore the scope and next step with Grant Publishing Co."
+  },
+  "book-presentation": {
+    "title": "Book Descriptions & A+ Content",
+    "slug": "book-presentation",
+    "parent": "services",
+    "shortcode": "grant_book_presentation",
+    "description": "Make the book’s promise easier to understand. Explore the scope and next step with Grant Publishing Co."
+  },
+  "launch-promotion": {
+    "title": "Book Launch & Promotion",
+    "slug": "launch-promotion",
+    "parent": "services",
+    "shortcode": "grant_launch_promotion",
+    "description": "Build a promotion plan around the book and its reader. Explore the scope and next step with Grant Publishing Co."
+  },
+  "author-platform": {
+    "title": "Author Platform",
+    "slug": "author-platform",
+    "parent": "services",
+    "shortcode": "grant_author_platform",
+    "description": "Give interested readers a clear way to stay connected. Explore the scope and next step with Grant Publishing Co."
+  },
+  "catalog-strategy": {
+    "title": "Series & Catalog Strategy",
+    "slug": "catalog-strategy",
+    "parent": "services",
+    "shortcode": "grant_catalog_strategy",
+    "description": "Think beyond a single book. Explore the scope and next step with Grant Publishing Co."
+  },
+  "book-strategy": {
+    "title": "Book Marketing Strategy",
+    "slug": "book-strategy",
+    "parent": "services",
+    "shortcode": "grant_book_strategy",
+    "description": "Choose the work that matters before spending on more activity. Explore the scope and next step with Grant Publishing Co."
+  },
+  "publishing-support": {
+    "title": "Book Publishing & Amazon KDP Setup",
+    "slug": "publishing-support",
+    "parent": "services",
+    "shortcode": "grant_publishing_support",
+    "description": "Practical help with publishing setup, file uploads and edition preparation within an agreed scope."
+  },
+  "book-discovery": {
+    "title": "Why publishing a book does not guarantee discovery",
+    "slug": "book-discovery",
+    "parent": "insights",
+    "shortcode": "grant_book_discovery",
+    "description": "Publication makes a book available. The next question is whether the right reader can recognize it."
+  },
+  "book-product-page": {
+    "title": "The pieces of a strong book product page",
+    "slug": "book-product-page",
+    "parent": "insights",
+    "shortcode": "grant_book_product_page",
+    "description": "Review the page as a reader would: what is this book, who is it for and why should I keep reading?"
+  },
+  "connected-catalog": {
+    "title": "Your second book changes the marketing equation",
+    "slug": "connected-catalog",
+    "parent": "insights",
+    "shortcode": "grant_connected_catalog",
+    "description": "With more than one title, the reader’s next step becomes part of the marketing plan."
+  },
+  "book-formatting": {
+    "title": "Book Formatting",
+    "slug": "book-formatting",
+    "parent": "services",
+    "shortcode": "grant_book_formatting",
+    "description": "Readable interiors and appropriately prepared files for ebooks, paperbacks and hardcovers."
+  },
+  "cover-design": {
+    "title": "Book Cover Design",
+    "slug": "cover-design",
+    "parent": "services",
+    "shortcode": "grant_cover_design",
+    "description": "Ebook covers and print cover layouts suited to your book’s genre, audience and format."
+  },
+  "amazon-ads": {
+    "title": "Amazon Ads Setup & Management",
+    "slug": "amazon-ads",
+    "parent": "services",
+    "shortcode": "grant_amazon_ads",
+    "description": "A clear campaign structure, relevant targeting and a practical handover, with optional ongoing management."
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "slug": "privacy-policy",
+    "shortcode": "grant_privacy_policy",
+    "description": "How Grant Publishing Co. handles enquiries, project information and personal information."
+  },
+  "terms-of-service": {
+    "title": "Terms of Service",
+    "slug": "terms-of-service",
+    "shortcode": "grant_terms_of_service",
+    "description": "Approved terms for the Grant Publishing Co. website and services."
+  },
+  "case-studies": {
+    "title": "Case Studies",
+    "slug": "case-studies",
+    "shortcode": "grant_case_studies",
+    "description": "See documented book design, formatting and Amazon listing projects for My Dear Grandfather and Luma the Sleepy Star."
+  },
+  "case-grandfather": {
+    "title": "My Dear Grandfather: Amazon Listing Optimization",
+    "slug": "my-dear-grandfather",
+    "parent": "case-studies",
+    "shortcode": "grant_case_grandfather",
+    "description": "An evidence-based case study of description work, keyword research and category review for Barsha Rai’s My Dear Grandfather."
+  },
+  "case-luma": {
+    "title": "Luma the Sleepy Star: Cover Design & Formatting",
+    "slug": "luma-the-sleepy-star",
+    "parent": "case-studies",
+    "shortcode": "grant_case_luma",
+    "description": "John Capon’s picture-book cover redesign and 35-page paperback interior, documented through delivery of the final print PDFs."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "slug": "faq",
+    "shortcode": "grant_faq",
+    "description": "Clear answers about Grant Publishing Co.’s book design, publishing, assessments, revisions and Amazon Ads services."
+  }
+}

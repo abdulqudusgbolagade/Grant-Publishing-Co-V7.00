@@ -1,0 +1,673 @@
+[
+  {
+    "id": "christmas-road-trip",
+    "title": "Christmas Road Trip Activity Book",
+    "credit": "Rachael Funmilayo",
+    "kind": "client",
+    "scope": "Cover design and interior layout",
+    "context": "A coordinated cover and print interior for a children’s activity book, with puzzle pages, drawing space and clear section styling.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 7–8",
+        "images": [
+          {
+            "file": "interior-christmas-road-trip-7.webp",
+            "preview": "interior-christmas-road-trip-7-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-christmas-road-trip-8.webp",
+            "preview": "interior-christmas-road-trip-8-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 9–10",
+        "images": [
+          {
+            "file": "interior-christmas-road-trip-9.webp",
+            "preview": "interior-christmas-road-trip-9-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-christmas-road-trip-10.webp",
+            "preview": "interior-christmas-road-trip-10-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 11–12",
+        "images": [
+          {
+            "file": "interior-christmas-road-trip-11.webp",
+            "preview": "interior-christmas-road-trip-11-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-christmas-road-trip-12.webp",
+            "preview": "interior-christmas-road-trip-12-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elfland",
+    "title": "The King of Elfland’s Daughter",
+    "credit": "Lord Dunsany",
+    "kind": "study",
+    "scope": "Cover and interior design study",
+    "context": "A cover and typesetting study for Lord Dunsany’s novel. The edition identifies its cover illustration as AI-generated.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 11–12",
+        "images": [
+          {
+            "file": "interior-elfland-11.webp",
+            "preview": "interior-elfland-11-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-elfland-12.webp",
+            "preview": "interior-elfland-12-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 13–14",
+        "images": [
+          {
+            "file": "interior-elfland-13.webp",
+            "preview": "interior-elfland-13-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-elfland-14.webp",
+            "preview": "interior-elfland-14-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 15–16",
+        "images": [
+          {
+            "file": "interior-elfland-15.webp",
+            "preview": "interior-elfland-15-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-elfland-16.webp",
+            "preview": "interior-elfland-16-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wood",
+    "title": "The Wood Beyond the World",
+    "credit": "William Morris",
+    "kind": "study",
+    "scope": "Cover and interior design study",
+    "context": "A cover and interior layout study with traditional serif typography. The edition identifies its cover illustration as AI-generated.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 7–8",
+        "images": [
+          {
+            "file": "interior-wood-7.webp",
+            "preview": "interior-wood-7-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-wood-8.webp",
+            "preview": "interior-wood-8-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 9–10",
+        "images": [
+          {
+            "file": "interior-wood-9.webp",
+            "preview": "interior-wood-9-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-wood-10.webp",
+            "preview": "interior-wood-10-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 11–12",
+        "images": [
+          {
+            "file": "interior-wood-11.webp",
+            "preview": "interior-wood-11-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-wood-12.webp",
+            "preview": "interior-wood-12-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "undine",
+    "title": "Undine",
+    "credit": "Friedrich de la Motte Fouqué · translated by F. E. Bunnett",
+    "kind": "study",
+    "scope": "Interior typesetting study",
+    "context": "Typesetting for a translated literary work, with original author and translator credits retained.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 9–10",
+        "images": [
+          {
+            "file": "interior-undine-9.webp",
+            "preview": "interior-undine-9-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-undine-10.webp",
+            "preview": "interior-undine-10-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 11–12",
+        "images": [
+          {
+            "file": "interior-undine-11.webp",
+            "preview": "interior-undine-11-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-undine-12.webp",
+            "preview": "interior-undine-12-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 13–14",
+        "images": [
+          {
+            "file": "interior-undine-13.webp",
+            "preview": "interior-undine-13-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-undine-14.webp",
+            "preview": "interior-undine-14-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lulu-bett",
+    "title": "Miss Lulu Bett",
+    "credit": "Zona Gale",
+    "kind": "study",
+    "scope": "Interior typesetting study",
+    "context": "A literary interior study with chapter openings, running heads and a consistent reading page.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 7–8",
+        "images": [
+          {
+            "file": "interior-lulu-bett-7.webp",
+            "preview": "interior-lulu-bett-7-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-lulu-bett-8.webp",
+            "preview": "interior-lulu-bett-8-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 9–10",
+        "images": [
+          {
+            "file": "interior-lulu-bett-9.webp",
+            "preview": "interior-lulu-bett-9-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-lulu-bett-10.webp",
+            "preview": "interior-lulu-bett-10-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 11–12",
+        "images": [
+          {
+            "file": "interior-lulu-bett-11.webp",
+            "preview": "interior-lulu-bett-11-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-lulu-bett-12.webp",
+            "preview": "interior-lulu-bett-12-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enchanted-april",
+    "title": "The Enchanted April",
+    "credit": "Elizabeth von Arnim",
+    "kind": "study",
+    "scope": "Interior typesetting study",
+    "context": "An edition-design study with coordinated chapter openings and body-text styling.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 7–8",
+        "images": [
+          {
+            "file": "interior-enchanted-april-7.webp",
+            "preview": "interior-enchanted-april-7-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-enchanted-april-8.webp",
+            "preview": "interior-enchanted-april-8-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 9–10",
+        "images": [
+          {
+            "file": "interior-enchanted-april-9.webp",
+            "preview": "interior-enchanted-april-9-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-enchanted-april-10.webp",
+            "preview": "interior-enchanted-april-10-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 11–12",
+        "images": [
+          {
+            "file": "interior-enchanted-april-11.webp",
+            "preview": "interior-enchanted-april-11-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-enchanted-april-12.webp",
+            "preview": "interior-enchanted-april-12-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "twenty-four-hours",
+    "title": "How to Live on Twenty-Four Hours a Day",
+    "credit": "Arnold Bennett",
+    "kind": "study",
+    "scope": "Editorial design and typesetting study",
+    "context": "An editorial study in typesetting a classic nonfiction text, including contents and chapter openings.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 5–6",
+        "images": [
+          {
+            "file": "interior-twenty-four-hours-5.webp",
+            "preview": "interior-twenty-four-hours-5-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-twenty-four-hours-6.webp",
+            "preview": "interior-twenty-four-hours-6-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 13–14",
+        "images": [
+          {
+            "file": "interior-twenty-four-hours-13.webp",
+            "preview": "interior-twenty-four-hours-13-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-twenty-four-hours-14.webp",
+            "preview": "interior-twenty-four-hours-14-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 15–16",
+        "images": [
+          {
+            "file": "interior-twenty-four-hours-15.webp",
+            "preview": "interior-twenty-four-hours-15-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-twenty-four-hours-16.webp",
+            "preview": "interior-twenty-four-hours-16-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "next-chapter",
+    "title": "Next Chapter",
+    "credit": "Grant Publishing Co.",
+    "kind": "study",
+    "scope": "Workbook design and interactive PDF preparation",
+    "context": "A self-directed workbook with printable layouts and fillable PDF fields. Developed with AI assistance.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 6–7",
+        "images": [
+          {
+            "file": "interior-next-chapter-6.webp",
+            "preview": "interior-next-chapter-6-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-next-chapter-7.webp",
+            "preview": "interior-next-chapter-7-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 10–11",
+        "images": [
+          {
+            "file": "interior-next-chapter-10.webp",
+            "preview": "interior-next-chapter-10-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-next-chapter-11.webp",
+            "preview": "interior-next-chapter-11-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 14–15",
+        "images": [
+          {
+            "file": "interior-next-chapter-14.webp",
+            "preview": "interior-next-chapter-14-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-next-chapter-15.webp",
+            "preview": "interior-next-chapter-15-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "slumber-club",
+    "title": "The Slumber Club",
+    "credit": "Grant Publishing Co.",
+    "kind": "study",
+    "scope": "Activity-book design and interior layout",
+    "context": "A self-directed activity-book project with a coordinated cover and black-and-white interior. Developed with AI assistance.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 7–8",
+        "images": [
+          {
+            "file": "interior-slumber-club-7.webp",
+            "preview": "interior-slumber-club-7-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-slumber-club-8.webp",
+            "preview": "interior-slumber-club-8-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 17–18",
+        "images": [
+          {
+            "file": "interior-slumber-club-17.webp",
+            "preview": "interior-slumber-club-17-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-slumber-club-18.webp",
+            "preview": "interior-slumber-club-18-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 19–20",
+        "images": [
+          {
+            "file": "interior-slumber-club-19.webp",
+            "preview": "interior-slumber-club-19-440.webp",
+            "width": 1100,
+            "height": 1424
+          },
+          {
+            "file": "interior-slumber-club-20.webp",
+            "preview": "interior-slumber-club-20-440.webp",
+            "width": 1100,
+            "height": 1424
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zoe",
+    "title": "Zoe Stood up to Her Bullies",
+    "credit": "Hilda Singeh",
+    "kind": "sample",
+    "scope": "Interior formatting sample",
+    "context": "Selected interior pages from Hilda Singeh’s children’s book, alongside her client account of formatting and Amazon KDP publishing support.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 8–9",
+        "images": [
+          {
+            "file": "interior-zoe-8.webp",
+            "preview": "interior-zoe-8-440.webp",
+            "width": 1100,
+            "height": 1116
+          },
+          {
+            "file": "interior-zoe-9.webp",
+            "preview": "interior-zoe-9-440.webp",
+            "width": 1100,
+            "height": 1116
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 10–11",
+        "images": [
+          {
+            "file": "interior-zoe-10.webp",
+            "preview": "interior-zoe-10-440.webp",
+            "width": 1100,
+            "height": 1116
+          },
+          {
+            "file": "interior-zoe-11.webp",
+            "preview": "interior-zoe-11-440.webp",
+            "width": 1100,
+            "height": 1116
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 12–13",
+        "images": [
+          {
+            "file": "interior-zoe-12.webp",
+            "preview": "interior-zoe-12-440.webp",
+            "width": 1100,
+            "height": 1116
+          },
+          {
+            "file": "interior-zoe-13.webp",
+            "preview": "interior-zoe-13-440.webp",
+            "width": 1100,
+            "height": 1116
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turning-pain",
+    "title": "Turning Pain Into Blessing",
+    "credit": "Melinda Ribner",
+    "kind": "sample",
+    "scope": "Interior formatting sample",
+    "context": "A print-interior sample showing front matter, chapter styling and text layout.",
+    "frames": [
+      {
+        "label": "Selected PDF pages 13–14",
+        "images": [
+          {
+            "file": "interior-turning-pain-13.webp",
+            "preview": "interior-turning-pain-13-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-turning-pain-14.webp",
+            "preview": "interior-turning-pain-14-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 15–16",
+        "images": [
+          {
+            "file": "interior-turning-pain-15.webp",
+            "preview": "interior-turning-pain-15-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-turning-pain-16.webp",
+            "preview": "interior-turning-pain-16-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      },
+      {
+        "label": "Selected PDF pages 17–18",
+        "images": [
+          {
+            "file": "interior-turning-pain-17.webp",
+            "preview": "interior-turning-pain-17-440.webp",
+            "width": 1100,
+            "height": 1650
+          },
+          {
+            "file": "interior-turning-pain-18.webp",
+            "preview": "interior-turning-pain-18-440.webp",
+            "width": 1100,
+            "height": 1650
+          }
+        ]
+      }
+    ]
+  }
+]

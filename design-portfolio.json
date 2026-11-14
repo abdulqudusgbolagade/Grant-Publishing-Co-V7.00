@@ -1,0 +1,474 @@
+[
+  {
+    "id": "cognate-shortcut",
+    "title": "The Cognate Shortcut",
+    "credit": "VocabEasy.org",
+    "kind": "client",
+    "category": "covers",
+    "scope": "Book cover presentation",
+    "context": "Cover and book presentation for a bilingual English and Spanish learning title.",
+    "source": "important (5).png",
+    "samples": [
+      {
+        "file": "portfolio-cognate-alternate.webp",
+        "width": 1200,
+        "height": 675,
+        "caption": "Alternate supplied cover presentation"
+      }
+    ],
+    "image": {
+      "file": "portfolio-cognate-shortcut.webp",
+      "width": 1200,
+      "height": 1800,
+      "preview": "portfolio-cognate-shortcut-520.webp"
+    },
+    "presentation": {
+      "file": "portfolio-cognate-shortcut-presentation.webp",
+      "width": 1200,
+      "height": 857,
+      "preview": "portfolio-cognate-shortcut-presentation-520.webp"
+    }
+  },
+  {
+    "id": "hazlo-si-te-quieres",
+    "title": "Hazlo si te quieres",
+    "credit": "Eva Aixelà",
+    "kind": "client",
+    "category": "covers",
+    "scope": "Ebook cover design",
+    "context": "A Spanish-language ebook cover with a prominent title and a calm photographic composition.",
+    "source": "HAZLO-SI-TE-QUIERES--Ebook.jpg",
+    "samples": [],
+    "image": {
+      "file": "portfolio-hazlo-si-te-quieres.webp",
+      "width": 1200,
+      "height": 1920,
+      "preview": "portfolio-hazlo-si-te-quieres-520.webp"
+    }
+  },
+  {
+    "id": "christmas-road-trip",
+    "title": "Christmas Road Trip Activity Book",
+    "credit": "Rachael Funmilayo",
+    "kind": "client",
+    "category": "formatting",
+    "scope": "Cover design and interior layout",
+    "context": "A coordinated cover and print interior for a children’s activity book, with puzzle pages, drawing space and clear section styling.",
+    "source": "Christmas-Road-Trip-Print-Interior.pdf",
+    "samples": [
+      {
+        "file": "portfolio-christmas-road-trip-page-3.webp",
+        "width": 1100,
+        "height": 1424,
+        "caption": "Welcome page",
+        "preview": "portfolio-christmas-road-trip-page-3-520.webp"
+      },
+      {
+        "file": "portfolio-christmas-road-trip-page-8.webp",
+        "width": 1100,
+        "height": 1424,
+        "caption": "Activity layout",
+        "preview": "portfolio-christmas-road-trip-page-8-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-christmas-road-trip.webp",
+      "width": 1200,
+      "height": 1553,
+      "preview": "portfolio-christmas-road-trip-520.webp"
+    },
+    "presentation": {
+      "file": "portfolio-christmas-road-trip-presentation.webp",
+      "width": 1254,
+      "height": 1254,
+      "preview": "portfolio-christmas-road-trip-presentation-520.webp"
+    }
+  },
+  {
+    "id": "not-herself",
+    "title": "Not Herself",
+    "credit": "Client A+ Content example",
+    "kind": "client",
+    "category": "aplus",
+    "scope": "A+ Content presentation",
+    "context": "A coordinated set of A+ Content modules presenting the book through imagery, typography and supporting copy.",
+    "source": "portfolio-inbox/Aplus content.png",
+    "samples": [
+      {
+        "file": "portfolio-not-herself-full.webp",
+        "width": 1200,
+        "height": 5850,
+        "caption": "Additional supplied A+ page screenshot"
+      }
+    ],
+    "image": {
+      "file": "portfolio-not-herself.webp",
+      "width": 289,
+      "height": 661
+    }
+  },
+  {
+    "id": "elfland",
+    "title": "The King of Elfland’s Daughter",
+    "credit": "Lord Dunsany",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Cover and interior design study",
+    "context": "A cover and typesetting study for Lord Dunsany’s novel. The edition identifies its cover illustration as AI-generated.",
+    "source": "Elfland-Print-Interior.pdf",
+    "samples": [
+      {
+        "file": "portfolio-elfland-page-11.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Chapter opening",
+        "preview": "portfolio-elfland-page-11-520.webp"
+      },
+      {
+        "file": "portfolio-elfland-page-12.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Reading page",
+        "preview": "portfolio-elfland-page-12-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-elfland.webp",
+      "width": 1024,
+      "height": 1536,
+      "preview": "portfolio-elfland-520.webp"
+    },
+    "presentation": {
+      "file": "portfolio-elfland-presentation.webp",
+      "width": 1600,
+      "height": 900,
+      "preview": "portfolio-elfland-presentation-520.webp"
+    }
+  },
+  {
+    "id": "wood",
+    "title": "The Wood Beyond the World",
+    "credit": "William Morris",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Cover and interior design study",
+    "context": "A cover and interior layout study with traditional serif typography. The edition identifies its cover illustration as AI-generated.",
+    "source": "Wood-Print-Interior.pdf",
+    "samples": [
+      {
+        "file": "portfolio-wood-page-7.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Chapter opening",
+        "preview": "portfolio-wood-page-7-520.webp"
+      },
+      {
+        "file": "portfolio-wood-page-8.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Reading page",
+        "preview": "portfolio-wood-page-8-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-wood.webp",
+      "width": 1102,
+      "height": 1427,
+      "preview": "portfolio-wood-520.webp"
+    }
+  },
+  {
+    "id": "undine",
+    "title": "Undine",
+    "credit": "Friedrich de la Motte Fouqué · translated by F. E. Bunnett",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Interior typesetting study",
+    "context": "Typesetting for a translated literary work, with original author and translator credits retained.",
+    "source": "Undine-Print-Interior.pdf",
+    "samples": [
+      {
+        "file": "portfolio-undine-page-9.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Chapter opening",
+        "preview": "portfolio-undine-page-9-520.webp"
+      },
+      {
+        "file": "portfolio-undine-page-10.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Reading page",
+        "preview": "portfolio-undine-page-10-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-undine.webp",
+      "width": 1100,
+      "height": 1650,
+      "preview": "portfolio-undine-520.webp"
+    }
+  },
+  {
+    "id": "lulu-bett",
+    "title": "Miss Lulu Bett",
+    "credit": "Zona Gale",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Interior typesetting study",
+    "context": "A literary interior study with chapter openings, running heads and a consistent reading page.",
+    "source": "Lulu-Print-Interior.pdf",
+    "samples": [
+      {
+        "file": "portfolio-lulu-bett-page-7.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Chapter opening",
+        "preview": "portfolio-lulu-bett-page-7-520.webp"
+      },
+      {
+        "file": "portfolio-lulu-bett-page-8.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Reading page",
+        "preview": "portfolio-lulu-bett-page-8-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-lulu-bett.webp",
+      "width": 1100,
+      "height": 1650,
+      "preview": "portfolio-lulu-bett-520.webp"
+    }
+  },
+  {
+    "id": "enchanted-april",
+    "title": "The Enchanted April",
+    "credit": "Elizabeth von Arnim",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Interior typesetting study",
+    "context": "An edition-design study with coordinated chapter openings and body-text styling.",
+    "source": "portfolio-inbox/April-Print-Interior.pdf",
+    "samples": [
+      {
+        "file": "portfolio-enchanted-april-page-7.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Chapter opening",
+        "preview": "portfolio-enchanted-april-page-7-520.webp"
+      },
+      {
+        "file": "portfolio-enchanted-april-page-8.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Reading page",
+        "preview": "portfolio-enchanted-april-page-8-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-enchanted-april.webp",
+      "width": 1100,
+      "height": 1650,
+      "preview": "portfolio-enchanted-april-520.webp"
+    }
+  },
+  {
+    "id": "twenty-four-hours",
+    "title": "How to Live on Twenty-Four Hours a Day",
+    "credit": "Arnold Bennett",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Editorial design and typesetting study",
+    "context": "An editorial study in typesetting a classic nonfiction text, including contents and chapter openings.",
+    "source": "How-to-Live-on-Twenty-Four-Hours-a-Day.pdf",
+    "samples": [
+      {
+        "file": "portfolio-twenty-four-hours-page-5.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Contents page",
+        "preview": "portfolio-twenty-four-hours-page-5-520.webp"
+      },
+      {
+        "file": "portfolio-twenty-four-hours-page-13.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Chapter opening",
+        "preview": "portfolio-twenty-four-hours-page-13-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-twenty-four-hours.webp",
+      "width": 1100,
+      "height": 1650,
+      "preview": "portfolio-twenty-four-hours-520.webp"
+    }
+  },
+  {
+    "id": "next-chapter",
+    "title": "Next Chapter",
+    "credit": "Grant Publishing Co.",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Workbook design and interactive PDF preparation",
+    "context": "A self-directed workbook with printable layouts and fillable PDF fields. Developed with AI assistance.",
+    "source": "Next-Chapter-Fillable.pdf",
+    "samples": [
+      {
+        "file": "portfolio-next-chapter-page-6.webp",
+        "width": 1100,
+        "height": 1424,
+        "caption": "Guided worksheet",
+        "preview": "portfolio-next-chapter-page-6-520.webp"
+      },
+      {
+        "file": "portfolio-next-chapter-page-10.webp",
+        "width": 1100,
+        "height": 1424,
+        "caption": "Fillable workbook layout",
+        "preview": "portfolio-next-chapter-page-10-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-next-chapter.webp",
+      "width": 1100,
+      "height": 1424,
+      "preview": "portfolio-next-chapter-520.webp"
+    },
+    "download": "next-chapter-fillable-sample.pdf",
+    "printable": "next-chapter-printable-sample.pdf"
+  },
+  {
+    "id": "slumber-club",
+    "title": "The Slumber Club",
+    "credit": "Grant Publishing Co.",
+    "kind": "study",
+    "category": "formatting",
+    "scope": "Activity-book design and interior layout",
+    "context": "A self-directed activity-book project with a coordinated cover and black-and-white interior. Developed with AI assistance.",
+    "source": "The-Slumber-Club-Interior.pdf",
+    "samples": [
+      {
+        "file": "portfolio-slumber-club-page-7.webp",
+        "width": 1100,
+        "height": 1424,
+        "caption": "Activity page",
+        "preview": "portfolio-slumber-club-page-7-520.webp"
+      },
+      {
+        "file": "portfolio-slumber-club-page-18.webp",
+        "width": 1100,
+        "height": 1424,
+        "caption": "Activity layout",
+        "preview": "portfolio-slumber-club-page-18-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-slumber-club.webp",
+      "width": 1103,
+      "height": 1426,
+      "preview": "portfolio-slumber-club-520.webp"
+    },
+    "presentation": {
+      "file": "portfolio-slumber-club-presentation.webp",
+      "width": 1254,
+      "height": 1254,
+      "preview": "portfolio-slumber-club-presentation-520.webp"
+    }
+  },
+  {
+    "id": "names-she-kept",
+    "title": "The Names She Kept",
+    "credit": "Independent front-cover concept",
+    "kind": "study",
+    "category": "covers",
+    "scope": "Front-cover design study",
+    "context": "A standalone front-cover concept for a psychological thriller.",
+    "source": "THE (1).png",
+    "samples": [],
+    "image": {
+      "file": "portfolio-names-she-kept.webp",
+      "width": 1200,
+      "height": 1800,
+      "preview": "portfolio-names-she-kept-520.webp"
+    }
+  },
+  {
+    "id": "zoe",
+    "title": "Zoe Stood up to Her Bullies",
+    "credit": "Hilda Singeh",
+    "kind": "sample",
+    "category": "formatting",
+    "scope": "Interior formatting sample",
+    "context": "Selected interior pages from Hilda Singeh’s children’s book, alongside her client account of formatting and Amazon KDP publishing support.",
+    "source": "Zoe Stood up to Her Bullies 2026.pdf",
+    "samples": [
+      {
+        "file": "portfolio-zoe-page-8.webp",
+        "width": 1100,
+        "height": 1116,
+        "caption": "Chapter opening: Starting School with Excitement",
+        "preview": "portfolio-zoe-page-8-520.webp"
+      },
+      {
+        "file": "portfolio-zoe-page-12.webp",
+        "width": 1100,
+        "height": 1116,
+        "caption": "Chapter opening: Learning Before the Classroom",
+        "preview": "portfolio-zoe-page-12-520.webp"
+      },
+      {
+        "file": "portfolio-zoe-aplus-first.webp",
+        "width": 358,
+        "height": 591,
+        "caption": "Supplied book-presentation screenshot, first view"
+      },
+      {
+        "file": "portfolio-zoe-aplus-second.webp",
+        "width": 307,
+        "height": 570,
+        "caption": "Supplied book-presentation screenshot, second view"
+      }
+    ],
+    "image": {
+      "file": "portfolio-zoe.webp",
+      "width": 1100,
+      "height": 1116,
+      "preview": "portfolio-zoe-520.webp"
+    },
+    "url": "https://www.amazon.com/stores/Hilda-Singeh/author/B0GCNP8X1D"
+  },
+  {
+    "id": "turning-pain",
+    "title": "Turning Pain Into Blessing",
+    "credit": "Melinda Ribner",
+    "kind": "sample",
+    "category": "formatting",
+    "scope": "Interior formatting sample",
+    "context": "A print-interior sample showing front matter, chapter styling and text layout.",
+    "source": "Turn Pain Into Blessing.pdf",
+    "samples": [
+      {
+        "file": "portfolio-turning-pain-page-6.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Front-matter page",
+        "preview": "portfolio-turning-pain-page-6-520.webp"
+      },
+      {
+        "file": "portfolio-turning-pain-page-13.webp",
+        "width": 1100,
+        "height": 1650,
+        "caption": "Chapter opening",
+        "preview": "portfolio-turning-pain-page-13-520.webp"
+      }
+    ],
+    "image": {
+      "file": "portfolio-turning-pain.webp",
+      "width": 1100,
+      "height": 1650,
+      "preview": "portfolio-turning-pain-520.webp"
+    }
+  }
+]

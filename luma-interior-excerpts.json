@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Selected story text and illustration pages",
+    "images": [
+      {
+        "file": "interior-luma-type-378.webp",
+        "width": 462,
+        "height": 469
+      },
+      {
+        "file": "interior-luma-type-387.webp",
+        "width": 462,
+        "height": 469
+      }
+    ]
+  },
+  {
+    "label": "Ownership and title-page examples",
+    "images": [
+      {
+        "file": "interior-luma-type-360.webp",
+        "width": 462,
+        "height": 469
+      },
+      {
+        "file": "interior-luma-type-369.webp",
+        "width": 462,
+        "height": 469
+      }
+    ]
+  },
+  {
+    "label": "Dialogue and closing-page examples",
+    "images": [
+      {
+        "file": "interior-luma-type-396.webp",
+        "width": 462,
+        "height": 469
+      },
+      {
+        "file": "interior-luma-type-405.webp",
+        "width": 462,
+        "height": 469
+      }
+    ]
+  }
+]
