@@ -1,0 +1,2357 @@
+{
+  "title": "Book Design, Publishing & Marketing Services",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "hide_title": "yes"
+  },
+  "content": [
+    {
+      "id": "ea8d97c2",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Page Hero Index Hero",
+        "css_classes": "gp-page-hero gp-index-hero",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "bf283611",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "008c9886",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Page Hero Copy",
+                "css_classes": "gp-page-hero-copy",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "1d2acf7d",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Label",
+                    "_css_classes": "gp-label",
+                    "editor": "<p>OUR EXPERTISE</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ed046641",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Page Title",
+                    "_css_classes": "gp-page-title",
+                    "title": "Focused support.<br><em>A clearer next step.</em>",
+                    "header_size": "h1"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "6f19bc9a",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Lead",
+                    "_css_classes": "gp-lead",
+                    "editor": "<p>Book design, formatting, publishing and marketing support, from your first prepared files to the way readers find your book.</p>"
+                  },
+                  "elements": []
+                }
+              ]
+            },
+            {
+              "id": "f66553f7",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Index Hero Art",
+                "css_classes": "gp-index-hero-art",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "2b0906fd",
+                  "elType": "widget",
+                  "widgetType": "shortcode",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Showcase Slot",
+                    "_css_classes": "gp-showcase-slot",
+                    "shortcode": "[grant_book_showcase context=\"services\"]"
+                  },
+                  "elements": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0debccd",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Tone Lilac",
+        "css_classes": "gp-section gp-tone-lilac",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "27ebdf59",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "ba557da3",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Service List Service List Full",
+                "css_classes": "gp-service-list gp-service-list-full",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "fe2076c8",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Service Group",
+                    "css_classes": "gp-service-group",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "c7c043ee",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Subheading",
+                        "_css_classes": "gp-subheading",
+                        "title": "Book Design and Production",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "93ed8b9e",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "book-formatting",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "4ec9fd84",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>01</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "943b1373",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "97bf4602",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:book-formatting}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Book Formatting",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "1256aeb2",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Readable interiors and appropriately prepared files for ebooks, paperbacks and hardcovers.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "16097073",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul><li>Ebook formatting and navigation appropriate to the content</li><li>Paperback and hardcover interior layouts at the agreed trim size</li></ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "c2635659",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "40d980b7",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:book-formatting}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "69c4adac",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "cover-design",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "173d4ebe",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>02</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "a14b4124",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "bab9902d",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:cover-design}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Book Cover Design",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "5dfc6d54",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Ebook covers and print cover layouts suited to your book’s genre, audience and format.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "03b7f9d7",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul><li>Cover direction and ebook front cover design</li><li>Paperback or hardcover cover layout within the agreed specifications</li></ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "39103264",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "0fc8cff6",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:cover-design}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "b5aa7744",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Service Group",
+                    "css_classes": "gp-service-group",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "60e45014",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Subheading",
+                        "_css_classes": "gp-subheading",
+                        "title": "Publishing and Launch Support",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "ce9d4f56",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "publishing-support",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "79634dab",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>03</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "252c4ddb",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "5f15f289",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:publishing-support}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Book Publishing & Amazon KDP Setup",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "d4e401fa",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Get practical help with publishing setup, file uploads and edition preparation.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "dd3a2c5a",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul>\n<li>Publishing setup and file uploads within the agreed scope</li>\n<li>Edition preparation and a clear publishing handover</li>\n</ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "6ca59d21",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "a0d594d1",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:publishing-support}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "99d4203f",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "launch-promotion",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "c2d8feed",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>04</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "ceaaa7a6",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "98d404b1",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:launch-promotion}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Book Launch & Promotion",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "4abdb479",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Build a promotion plan around the book and its reader.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "08a82b12",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul>\n<li>Launch or relaunch readiness review</li>\n<li>Audience and message planning</li>\n</ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "4ff24015",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "c42483d1",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:launch-promotion}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "2e7fdaa2",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Service Group",
+                    "css_classes": "gp-service-group",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "9ce0b197",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Subheading",
+                        "_css_classes": "gp-subheading",
+                        "title": "Amazon Visibility and Optimization",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "cedc9ed6",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "amazon-visibility",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "a491b638",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>05</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "1ba3766a",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "6b36ac22",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:amazon-visibility}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Amazon Book Visibility",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "aac1a7f6",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Help the right reader recognize where your book belongs.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "93fea783",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul>\n<li>Review of the public book listing and its positioning</li>\n<li>Recommendations for relevant keywords and category fit</li>\n</ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "df260d22",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "9f097597",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:amazon-visibility}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1245d7ed",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "book-presentation",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "c7aa50d8",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>06</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "878f83db",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "ffca71e8",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:book-presentation}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Book Descriptions & A+ Content",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "ee8b53b7",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Make the book’s promise easier to understand.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "87f323e8",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul>\n<li>Description review or rewriting within the agreed scope</li>\n<li>A+ Content structure, copy and visual direction</li>\n</ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "02bc103d",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "6cb124c9",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:book-presentation}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "691b43a0",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Service Group",
+                    "css_classes": "gp-service-group",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "62ff3d6d",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Subheading",
+                        "_css_classes": "gp-subheading",
+                        "title": "Book Marketing and Growth",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "3324d35c",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "book-strategy",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "e0640fd1",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>07</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "3c3ed8c7",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "da3cf3d8",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:book-strategy}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Book Marketing Strategy",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "dc2e91a6",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Choose the work that matters before spending on more activity.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "658d77c1",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul>\n<li>A review of the book’s positioning and current marketing</li>\n<li>Diagnosis of the main obstacles and open questions</li>\n</ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "cf99112f",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "e4882b22",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:book-strategy}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "32d41a98",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "amazon-ads",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "3bcfd63e",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>08</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "869a4c39",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "83f55026",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:amazon-ads}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Amazon Ads Setup & Management",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "298efaa3",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>A clear campaign structure, relevant targeting and a practical handover, with optional ongoing management.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "9fe1e865",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul><li>Campaign structure and relevant keyword or product targeting research</li><li>Initial bid and budget settings agreed with you</li></ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "551bec03",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "050d6804",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:amazon-ads}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "fedee63a",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "author-platform",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "f4526703",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>09</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "a5c60f46",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "ff26f20d",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:author-platform}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Author Platform",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "26370a8d",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Give interested readers a clear way to stay connected.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "21ea7457",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul>\n<li>Author positioning and profile review</li>\n<li>Website and reader journey recommendations</li>\n</ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "3913e1d5",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "345dc6b6",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:author-platform}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "d04b40d6",
+                      "elType": "container",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Service Row",
+                        "_element_id": "catalog-strategy",
+                        "css_classes": "gp-service-row",
+                        "content_width": "full",
+                        "flex_direction": "column",
+                        "padding": {
+                          "unit": "px",
+                          "top": "0",
+                          "right": "0",
+                          "bottom": "0",
+                          "left": "0",
+                          "isLinked": true
+                        },
+                        "flex_gap": {
+                          "unit": "px",
+                          "size": 0,
+                          "column": "0",
+                          "row": "0"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "f2c4938a",
+                          "elType": "widget",
+                          "widgetType": "text-editor",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Index",
+                            "_css_classes": "gp-index",
+                            "editor": "<p>10</p>"
+                          },
+                          "elements": []
+                        },
+                        {
+                          "id": "11fd5eeb",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Service Copy",
+                            "css_classes": "gp-service-copy",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "a889db41",
+                              "elType": "widget",
+                              "widgetType": "heading",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Row Title",
+                                "_css_classes": "gp-row-title",
+                                "link": {
+                                  "url": "{{url:catalog-strategy}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                },
+                                "title": "Series & Catalog Strategy",
+                                "header_size": "h3"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "884b61f4",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Copy",
+                                "_css_classes": "gp-copy",
+                                "editor": "<p>Think beyond a single book.</p>"
+                              },
+                              "elements": []
+                            },
+                            {
+                              "id": "5ee74d05",
+                              "elType": "widget",
+                              "widgetType": "text-editor",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Service Scope",
+                                "_css_classes": "gp-service-scope",
+                                "editor": "<ul>\n<li>Catalog overview and reader pathway review</li>\n<li>Author, series and edition consistency checks</li>\n</ul>"
+                              },
+                              "elements": []
+                            }
+                          ]
+                        },
+                        {
+                          "id": "78117519",
+                          "elType": "container",
+                          "isInner": false,
+                          "settings": {
+                            "_title": "Row Action",
+                            "css_classes": "gp-row-action",
+                            "content_width": "full",
+                            "flex_direction": "column",
+                            "padding": {
+                              "unit": "px",
+                              "top": "0",
+                              "right": "0",
+                              "bottom": "0",
+                              "left": "0",
+                              "isLinked": true
+                            },
+                            "flex_gap": {
+                              "unit": "px",
+                              "size": 0,
+                              "column": "0",
+                              "row": "0"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "693dbd97",
+                              "elType": "widget",
+                              "widgetType": "button",
+                              "isInner": false,
+                              "settings": {
+                                "_title": "Action Secondary",
+                                "_css_classes": "gp-action gp-secondary",
+                                "text": "Explore service",
+                                "link": {
+                                  "url": "{{url:catalog-strategy}}",
+                                  "is_external": "",
+                                  "nofollow": ""
+                                }
+                              },
+                              "elements": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42b88c89",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Alt Tone Paper",
+        "css_classes": "gp-section gp-alt gp-tone-paper",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "3e09b5ed",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "83da5f06",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Split",
+                "css_classes": "gp-split",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "d871821b",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Section Intro",
+                    "css_classes": "gp-section-intro",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "42c640d5",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Label",
+                        "_css_classes": "gp-label",
+                        "editor": "<p>START WITH WHAT I CAN SEE</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "9abe66c3",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Heading",
+                        "_css_classes": "gp-heading",
+                        "title": "Not sure where<br>to begin?",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "2f54bad8",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Body Copy",
+                    "css_classes": "gp-body-copy",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "9b49d2a8",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Copy",
+                        "_css_classes": "gp-copy",
+                        "editor": "<p>A free initial assessment reviews your public Amazon listing. It helps me identify questions and possible improvements before discussing deeper work.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "a9466660",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Copy",
+                        "_css_classes": "gp-copy",
+                        "editor": "<p>Not yet published? <a href=\"{{url:contact}}#gpc-enquiry\">Discuss a design, formatting or publishing project</a>. An Amazon link is optional for a general inquiry.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "5191de41",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Small",
+                        "_css_classes": "gp-small",
+                        "editor": "<p>It does not include a manuscript review, access to your private sales data or a promise of sales and rankings.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "d881c2e8",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action",
+                        "_css_classes": "gp-action",
+                        "text": "Request an initial assessment",
+                        "link": {
+                          "url": "{{url:enquiry}}?request=assessment#gpc-enquiry",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1190b67f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Cta",
+        "css_classes": "gp-section gp-cta",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "caa107a5",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "bdb6ed98",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Cta Row",
+                "css_classes": "gp-cta-row",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "d877c4fc",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Cta Copy",
+                    "css_classes": "gp-cta-copy",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "3eb9c849",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Label",
+                        "_css_classes": "gp-label",
+                        "editor": "<p>YOUR NEXT STEP</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "fa252397",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Heading",
+                        "_css_classes": "gp-heading",
+                        "title": "Let’s find the right next move<br>for your book.",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "c5aa8cce",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Copy",
+                        "_css_classes": "gp-copy",
+                        "editor": "<p>Share your book, your goal and where you would like support.</p>"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "c7e341fe",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Cta Actions",
+                    "css_classes": "gp-cta-actions",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "d864fdbc",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action",
+                        "_css_classes": "gp-action",
+                        "text": "Discuss your book",
+                        "link": {
+                          "url": "{{url:contact}}#gpc-enquiry",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "ae8e3a05",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action Secondary",
+                        "_css_classes": "gp-action gp-secondary",
+                        "text": "Free initial assessment",
+                        "link": {
+                          "url": "{{url:enquiry}}?request=assessment#gpc-enquiry",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

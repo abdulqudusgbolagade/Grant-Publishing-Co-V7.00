@@ -1,0 +1,593 @@
+{
+  "title": "About Grant Publishing Co.",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "hide_title": "yes"
+  },
+  "content": [
+    {
+      "id": "3998f57f",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Page Hero About Hero",
+        "css_classes": "gp-page-hero gp-about-hero",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "0f42007c",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "9e1bbe65",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Label",
+                "_css_classes": "gp-label",
+                "editor": "<p>ABOUT GRANT</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "5069cea8",
+              "elType": "widget",
+              "widgetType": "heading",
+              "isInner": false,
+              "settings": {
+                "_title": "Page Title",
+                "_css_classes": "gp-page-title",
+                "title": "Thoughtful support.<br><em>From book to reader.</em>",
+                "header_size": "h1"
+              },
+              "elements": []
+            },
+            {
+              "id": "2b990bb9",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Lead",
+                "_css_classes": "gp-lead",
+                "editor": "<p>Grant Publishing Co. helps authors prepare, publish and promote their books through design, formatting, publishing support and practical marketing.</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e30aac9",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Tone Lilac",
+        "css_classes": "gp-section gp-tone-lilac",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "b4fe32c0",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap Biography",
+            "css_classes": "gp-wrap gp-biography",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "d0170fbe",
+              "elType": "widget",
+              "widgetType": "image",
+              "isInner": false,
+              "settings": {
+                "_title": "Portrait Portrait About",
+                "_css_classes": "gp-portrait gp-portrait-about",
+                "image": {
+                  "url": "{{asset:abdulqudus-tella.png}}",
+                  "id": 0,
+                  "alt": "AbdulQudus Tella, Book Publishing Specialist"
+                },
+                "image_size": "full",
+                "caption_source": "none",
+                "link_to": "none"
+              },
+              "elements": []
+            },
+            {
+              "id": "06ef5506",
+              "elType": "widget",
+              "widgetType": "heading",
+              "isInner": false,
+              "settings": {
+                "_title": "Heading",
+                "_css_classes": "gp-heading",
+                "title": "Meet AbdulQudus Tella",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "99d74323",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Copy",
+                "_css_classes": "gp-copy",
+                "editor": "<p>I’m AbdulQudus Tella, Book Publishing Specialist and Founder of Grant Publishing Co. I offer cover design, ebook and print formatting, publishing and Amazon KDP setup, alongside Amazon visibility, marketing strategy and advertising support.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "d836f2f9",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Copy",
+                "_css_classes": "gp-copy",
+                "editor": "<p>I begin by looking at the book and the problem you want to solve. The aim is to identify what needs attention, explain why it matters and agree a useful next step.</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48ae11f0",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Tone Paper",
+        "css_classes": "gp-section gp-tone-paper",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "0a0702ad",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "8bf116aa",
+              "elType": "widget",
+              "widgetType": "heading",
+              "isInner": false,
+              "settings": {
+                "_title": "Heading",
+                "_css_classes": "gp-heading",
+                "title": "How I approach the work",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "d1cd326d",
+              "elType": "widget",
+              "widgetType": "shortcode",
+              "isInner": false,
+              "settings": {
+                "_title": "Framework Slot",
+                "_element_id": "grant-framework",
+                "_css_classes": "gp-framework-slot",
+                "shortcode": "[grant_framework context=\"about\"]"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "718e83f2",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Tone Lilac",
+        "css_classes": "gp-section gp-tone-lilac",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "6c8da485",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "395e4081",
+              "elType": "widget",
+              "widgetType": "heading",
+              "isInner": false,
+              "settings": {
+                "_title": "Heading",
+                "_css_classes": "gp-heading",
+                "title": "A working relationship built through delivery",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "e099b0ca",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Copy",
+                "_css_classes": "gp-copy",
+                "editor": "<p>Three completed projects with author Nadine Laman received 5.0 out of 5 feedback on Upwork. Her comments describe the reports, communication and ongoing working relationship.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "36a3cc07",
+              "elType": "widget",
+              "widgetType": "button",
+              "isInner": false,
+              "settings": {
+                "_title": "Action Secondary",
+                "_css_classes": "gp-action gp-secondary",
+                "text": "Read the client feedback",
+                "link": {
+                  "url": "{{url:feedback}}",
+                  "is_external": "",
+                  "nofollow": ""
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9d1f9ab",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Cta",
+        "css_classes": "gp-section gp-cta",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "fb9bf4e8",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "95fee519",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Cta Row",
+                "css_classes": "gp-cta-row",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "d439d86e",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Cta Copy",
+                    "css_classes": "gp-cta-copy",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "62691324",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Label",
+                        "_css_classes": "gp-label",
+                        "editor": "<p>YOUR NEXT STEP</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "c47125b5",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Heading",
+                        "_css_classes": "gp-heading",
+                        "title": "Let’s find the right next move<br>for your book.",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "e7b49eee",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Copy",
+                        "_css_classes": "gp-copy",
+                        "editor": "<p>Share your book, your goal and where you would like support.</p>"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "6f96f18a",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Cta Actions",
+                    "css_classes": "gp-cta-actions",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "d2ba992c",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action",
+                        "_css_classes": "gp-action",
+                        "text": "Discuss your book",
+                        "link": {
+                          "url": "{{url:contact}}#gpc-enquiry",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "c4808e6a",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action Secondary",
+                        "_css_classes": "gp-action gp-secondary",
+                        "text": "Free initial assessment",
+                        "link": {
+                          "url": "{{url:enquiry}}?request=assessment#gpc-enquiry",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

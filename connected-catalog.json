@@ -1,0 +1,649 @@
+{
+  "title": "Your second book changes the marketing equation",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "hide_title": "yes"
+  },
+  "content": [
+    {
+      "id": "86a4a663",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Page Hero Reading Hero",
+        "css_classes": "gp-page-hero gp-reading-hero",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "12d7cb0d",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "f0710885",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Breadcrumb",
+                "_css_classes": "gp-breadcrumb",
+                "editor": "<p><a href=\"{{url:insights}}\">Insights</a><span aria-hidden=\"true\"> / </span>Catalog strategy</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "84d9ec7e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "isInner": false,
+              "settings": {
+                "_title": "Page Title",
+                "_css_classes": "gp-page-title",
+                "title": "Your second book changes the marketing equation",
+                "header_size": "h1"
+              },
+              "elements": []
+            },
+            {
+              "id": "cf14cbce",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Lead",
+                "_css_classes": "gp-lead",
+                "editor": "<p>With more than one title, the reader’s next step becomes part of the marketing plan.</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "a23d40d9",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Reading Meta",
+                "_css_classes": "gp-reading-meta",
+                "editor": "<p>Approx. 2 min read · Insights for authors</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04a8b009",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Reading",
+        "css_classes": "gp-section gp-reading",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "ef000dd4",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "17486b92",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Article Body",
+                "css_classes": "gp-article-body",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "4fa32751",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Article Toc",
+                    "_css_classes": "gp-article-toc",
+                    "editor": "<details open><summary>In this article</summary><ol>\n<li><a href=\"#article-section-1\">Look beyond the individual listing</a></li>\n<li><a href=\"#article-section-2\">Choose a useful entry point</a></li>\n<li><a href=\"#article-section-3\">Check the connections</a></li>\n<li><a href=\"#article-section-4\">Review the whole journey</a></li>\n</ol></details>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "5aa740de",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Editorial Art",
+                    "_css_classes": "gp-editorial-art",
+                    "editor": "<figure class=\"gp-concept-figure\"><div class=\"gp-concept-title\"><p>One book can lead to the next.</p></div>\n<div class=\"gp-concept-nodes\">\n<div class=\"gp-concept-node\">\n<span class=\"gp-concept-mark\" aria-hidden=\"true\"></span><span>Entry point</span>\n</div>\n<div class=\"gp-concept-node\">\n<span class=\"gp-concept-mark\" aria-hidden=\"true\"></span><span>Next title</span>\n</div>\n<div class=\"gp-concept-node\">\n<span class=\"gp-concept-mark\" aria-hidden=\"true\"></span><span>Reading path</span>\n</div>\n</div>\n<figcaption>Illustrative catalog pathway</figcaption></figure>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "941ad73b",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Subheading",
+                    "_element_id": "article-section-1",
+                    "_css_classes": "gp-subheading",
+                    "title": "Look beyond the individual listing",
+                    "header_size": "h2"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "3e2e9fb9",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>When you have several books, each listing is part of a wider reading path. Someone who enjoys one title may be open to another, but the connection needs to make sense and be easy to follow.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "d7c2ce88",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>Start by listing the books you have, the reader each serves and whether there is an intended reading order. Do not assume that every title belongs in the same promotional message.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "022b07a6",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Subheading",
+                    "_element_id": "article-section-2",
+                    "_css_classes": "gp-subheading",
+                    "title": "Choose a useful entry point",
+                    "header_size": "h2"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "edbf7780",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>The newest book is not automatically the easiest place for every reader to begin. In a continuous series, an earlier volume may provide necessary context. For standalone books, the best starting point may depend on the reader’s interests.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "cb2f9fcb",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>Explain those relationships clearly. The goal is to reduce confusion, especially when your catalog includes different series, genres or editions.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "aa9a6971",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Subheading",
+                    "_element_id": "article-section-3",
+                    "_css_classes": "gp-subheading",
+                    "title": "Check the connections",
+                    "header_size": "h2"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "548dd71e",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>Review author names, series details, descriptions and the information inside each book’s back matter. Look for outdated links or an unclear next-book recommendation.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "722b5e4f",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>Compare the covers as a group. A shared series identity can help readers recognize related books, while unrelated work may need a distinct presentation. The right choice depends on what the books actually contain.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "71b05af6",
+                  "elType": "widget",
+                  "widgetType": "heading",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Subheading",
+                    "_element_id": "article-section-4",
+                    "_css_classes": "gp-subheading",
+                    "title": "Review the whole journey",
+                    "header_size": "h2"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "cead64e5",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>A practical catalog plan asks three questions: where does a new reader enter, what helps them choose the first book, and what makes the next step clear?</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "581d7edf",
+                  "elType": "widget",
+                  "widgetType": "text-editor",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Copy",
+                    "_css_classes": "gp-copy",
+                    "editor": "<p>If you have access to sales or reader data, use it to test your assumptions. Public listings can show how a catalog is presented, but they cannot prove how readers move between titles. Treat the first review as a starting point for better decisions.</p>"
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "4f77c7d7",
+                  "elType": "widget",
+                  "widgetType": "button",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Action Secondary",
+                    "_css_classes": "gp-action gp-secondary",
+                    "text": "All insights",
+                    "link": {
+                      "url": "{{url:insights}}",
+                      "is_external": "",
+                      "nofollow": ""
+                    }
+                  },
+                  "elements": []
+                },
+                {
+                  "id": "ca986654",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Article Next",
+                    "css_classes": "gp-article-next",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "a2e78d6c",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Label",
+                        "_css_classes": "gp-label",
+                        "editor": "<p>PUT THE IDEA TO WORK</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "bb7a0bab",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action Secondary",
+                        "_css_classes": "gp-action gp-secondary",
+                        "text": "Explore the relevant service",
+                        "link": {
+                          "url": "{{url:catalog-strategy}}",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0daf8d9a",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Cta",
+        "css_classes": "gp-section gp-cta",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "baed2c73",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "a02e9613",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Cta Row",
+                "css_classes": "gp-cta-row",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "cc1dd058",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Cta Copy",
+                    "css_classes": "gp-cta-copy",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "a36a0e01",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Label",
+                        "_css_classes": "gp-label",
+                        "editor": "<p>YOUR NEXT STEP</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "d38a8368",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Heading",
+                        "_css_classes": "gp-heading",
+                        "title": "Let’s find the right next move<br>for your book.",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "c393c2e7",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Copy",
+                        "_css_classes": "gp-copy",
+                        "editor": "<p>Share your book, your goal and where you would like support.</p>"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "5a4ae1d2",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Cta Actions",
+                    "css_classes": "gp-cta-actions",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "53fbed55",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action",
+                        "_css_classes": "gp-action",
+                        "text": "Discuss your book",
+                        "link": {
+                          "url": "{{url:contact}}#gpc-enquiry",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "73309b41",
+                      "elType": "widget",
+                      "widgetType": "button",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Action Secondary",
+                        "_css_classes": "gp-action gp-secondary",
+                        "text": "Free initial assessment",
+                        "link": {
+                          "url": "{{url:enquiry}}?request=assessment#gpc-enquiry",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

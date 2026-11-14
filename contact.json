@@ -1,0 +1,334 @@
+{
+  "title": "Contact Grant Publishing Co.",
+  "type": "page",
+  "version": "0.4",
+  "page_settings": {
+    "hide_title": "yes"
+  },
+  "content": [
+    {
+      "id": "ad9c07fe",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Page Hero Conversation Hero",
+        "css_classes": "gp-page-hero gp-conversation-hero",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "e48817bd",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "08de7a3c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Label",
+                "_css_classes": "gp-label",
+                "editor": "<p>GET IN TOUCH</p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "852769f3",
+              "elType": "widget",
+              "widgetType": "heading",
+              "isInner": false,
+              "settings": {
+                "_title": "Page Title",
+                "_css_classes": "gp-page-title",
+                "title": "Let’s talk<br><em>about your book.</em>",
+                "header_size": "h1"
+              },
+              "elements": []
+            },
+            {
+              "id": "5a9fd893",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "isInner": false,
+              "settings": {
+                "_title": "Lead",
+                "_css_classes": "gp-lead",
+                "editor": "<p>Tell me what you are writing, preparing or promoting, and where you need support. Design, formatting, publishing and marketing inquiries are welcome, even if your book is not yet published.</p>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e43f1a85",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "_title": "Section Tone Lilac",
+        "css_classes": "gp-section gp-tone-lilac",
+        "content_width": "full",
+        "flex_direction": "column",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": true
+        },
+        "flex_gap": {
+          "unit": "px",
+          "size": 0,
+          "column": "0",
+          "row": "0"
+        }
+      },
+      "elements": [
+        {
+          "id": "79043f48",
+          "elType": "container",
+          "isInner": false,
+          "settings": {
+            "_title": "Wrap",
+            "css_classes": "gp-wrap",
+            "content_width": "full",
+            "flex_direction": "column",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "flex_gap": {
+              "unit": "px",
+              "size": 0,
+              "column": "0",
+              "row": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "3dbaaf11",
+              "elType": "container",
+              "isInner": false,
+              "settings": {
+                "_title": "Contact Layout",
+                "css_classes": "gp-contact-layout",
+                "content_width": "full",
+                "flex_direction": "column",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                },
+                "flex_gap": {
+                  "unit": "px",
+                  "size": 0,
+                  "column": "0",
+                  "row": "0"
+                }
+              },
+              "elements": [
+                {
+                  "id": "d82f1664",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Form Panel",
+                    "css_classes": "gp-form-panel",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "5abd5b79",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Label",
+                        "_css_classes": "gp-label",
+                        "editor": "<p>PROJECT INQUIRY</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "c21387e4",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Form Intro",
+                        "_css_classes": "gp-form-intro",
+                        "editor": "<h2>Tell me about your book.</h2>\n<p>A few details help me understand the right next step. You can inquire before publication and leave the Amazon link blank.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "58dc20c3",
+                      "elType": "widget",
+                      "widgetType": "shortcode",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Form Widget",
+                        "_css_classes": "gp-form-widget",
+                        "shortcode": "[grant_enquiry_form request=\"project\"]"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "2f8d956d",
+                  "elType": "container",
+                  "isInner": false,
+                  "settings": {
+                    "_title": "Contact Aside",
+                    "css_classes": "gp-contact-aside",
+                    "content_width": "full",
+                    "flex_direction": "column",
+                    "padding": {
+                      "unit": "px",
+                      "top": "0",
+                      "right": "0",
+                      "bottom": "0",
+                      "left": "0",
+                      "isLinked": true
+                    },
+                    "flex_gap": {
+                      "unit": "px",
+                      "size": 0,
+                      "column": "0",
+                      "row": "0"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "5d2cf112",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Label",
+                        "_css_classes": "gp-label",
+                        "editor": "<p>WHAT HAPPENS NEXT</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "9362028e",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Brief Title",
+                        "_css_classes": "gp-brief-title",
+                        "title": "A useful conversation.<br>A clear next step.",
+                        "header_size": "h2"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "e3156a52",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Copy",
+                        "_css_classes": "gp-copy",
+                        "editor": "<p>I review the information you share and clarify your needs before proposing paid work.</p>"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "8593719b",
+                      "elType": "widget",
+                      "widgetType": "heading",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Item Title",
+                        "_css_classes": "gp-item-title",
+                        "title": "Prefer a direct message?",
+                        "header_size": "h3"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "a400a167",
+                      "elType": "widget",
+                      "widgetType": "shortcode",
+                      "isInner": false,
+                      "settings": {
+                        "_title": "Contact Links",
+                        "_css_classes": "gp-contact-links",
+                        "shortcode": "[grant_contact_links]"
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
